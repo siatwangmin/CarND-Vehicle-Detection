@@ -166,11 +166,11 @@ Since the car looks smaller when far away and look larger when it's nearby, we s
 The image below shows the  1st row  of the table's boxes region:
 
 [image3]: ./examples/sliding_window.png
-[image31]: ./examples/sliding_window1.png
 ![alt text][image3]
 
-
 The image below shows the  6st row  of the table's boxes region:
+
+[image31]: ./examples/sliding_window1.png
 ![alt text][image31]
 
 #### 2. Show some examples of test images to demonstrate how your pipeline is working.  What did you do to optimize the performance of your classifier?
